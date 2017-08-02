@@ -14,7 +14,7 @@ public class ActivityMain extends AppCompatActivity {
      * 1) Не прописывать id для View элемента
      *
      * 2) Переопределить метод Activity onSaveInstanteState()
-     * у которого не вызывать этот же метод суперкласса
+     * у которого не вызывать этот же метод суперкласс
      *
      */
 
